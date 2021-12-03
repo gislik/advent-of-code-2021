@@ -1,7 +1,7 @@
 package main
 
 import (
-	"advent/line"
+	"advent/pkg/line"
 	"fmt"
 	"log"
 	"os"
